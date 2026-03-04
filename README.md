@@ -1,5 +1,5 @@
 ## Hi there 👋, Im PythonDeveloper and i love building in python
-## I Have a experience of around 1 years in coding and development
+## I Have a experience of around 1 year in coding and development
 ### I have passion for game development and have made some projects in python
 ### Im currently learning website development 
 ### Know technologies like HTML, CSS, Javascript and Python
